@@ -1,0 +1,133 @@
+{"projects":[
+
+    {"title":"Maniac Challenge App",
+     "date":"2013-2014",
+     "place":"Maniac Challenge - Berlin",
+     "thumbnail":"img/thumb/1.png",
+     "preview":"Mobile Offloading in Wireless Ad-Hoc Networks",
+     "comment":"I worked on a Mobile Offloading solutions which resulted in participating in the “87th Maniac Challenge”, representing the University of Brasilia’s Electrical Engineering team at IETF/IRTF meeting in Berlin. We created a mobile app that guarantees internet access even in crowded places by offloading the 3G/4G data through the ad-hoc collaboration between users of the network. Our team won the Best Strategy prize and published a paper on ACM SIGCOMM CCR, showing our attempts to encourage the first real-world.",
+     "keywords":"---",
+     "image": "img/large/1.png",
+     "url":"http://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000006.pdf"
+   },
+     {"title":"Stanford Crowd Research",
+     "date":"2016",
+     "place":"Remote Research",
+     "thumbnail":"img/thumb/2.png",
+     "preview":"Guilds Paper - CSCW 2017",
+     "comment":"The SCRC is a first of its kind research-at-scale initiative by professor and students at Stanford to explore the possibility of massive research collaboration. Over 500 students and professionals are able to contribute to Daemo, an ever-developing self-governed crowdsourcing marketplace. I was named one of the top 15 contributors and was also co-authored the Crowd Guilds paper, under orientation of Stanford faculty, which was accepted for the 2017 CSCW. We design a crowdsourcing platform that empower employment relationship.",
+     "keywords":"---",
+     "image": "img/large/2.png",
+     "url":"http://hci.stanford.edu/publications/2017/crowdguilds/guilds.pdf"
+    },
+
+    {"title":"Windy Gridworld",
+     "date":"Spring 2016",
+     "place":"University of Brasilia",
+     "thumbnail":"img/thumb/5.png",
+     "preview":"Reinforcement Learning Visualization",
+     "comment":"A visualization of two different Reinforcement Learning algorithms: SARSA and Q-Learning, solving the classic Windy Grid World for inputs that are defined by the user.",
+     "keywords":"---",
+     "image": "img/large/5.png",
+     "url":"https://gbayomi.github.io/windy/"
+    },
+
+    {"title":"Universities Data Rankings",
+     "date":"Spring 2015",
+     "place":"Cornell University",
+     "thumbnail":"img/thumb/6.png",
+     "preview":"Data Clustering and Visualization for QS Rankings",
+     "comment":"Dynamic data visualization for the QS Ranking topics of evaluation, using D3.js and k-means clustering. The goal was to show that some universities are very close in some criterias, although very distant in rankings. The QS dataset for the top 200 universities was used.",
+     "keywords":"---",
+     "image": "img/large/6.png",
+     "url":"https://gbayomi.github.io/RankingUni-Data"
+    },
+
+    {"title":"VRML viewer",
+     "date":"2013-2014",
+     "place":"University Of Brasilia",
+     "thumbnail":"img/thumb/7.png",
+     "preview":"Web VRML converter and viewer (X3D)",
+     "comment":"A professor from the Civil Engineering departments holds a lecture on Virtual and Augmented Reality. He used an old application that could read .vrml files. The application is not supported anymore. Then, I worked with a colleague to implement a real-time web version of a vrml viewer, transforming .vrml into X3D and showing an instantaneous 3D model of the code.",
+     "keywords":"---",
+     "image": "img/large/7.png",
+     "url":"https://gbayomi.github.io/x3dom-cloud/"
+    },
+
+    {"title":"Omnibus",
+     "date":"2013-2014",
+     "place":"University of Brasilia",
+     "thumbnail":"img/thumb/3.png",
+     "preview":"Crowdsourcing the prediction of bus travel times for developing areas",
+     "comment":"I’m working on a social research project for the prediction of bus travel times for developing areas (non-GPS) via periodic crowdsourcing data. The lack of information of Google Transit Live and the highly confusing schedules are definitely a problem for most cities and my goal is to provide a low-internet-usage solution using crowd-sourced data from passengers.",
+     "keywords":"---",
+     "image": "img/large/3.png",
+     "url":"https://gbayomi.github.io/omnibus/"
+    },
+
+    {"title":"Spotify World Map",
+     "date":"Spring 2015",
+     "place":"Cornell University",
+     "thumbnail":"img/thumb/10.png",
+     "preview":"World Trends of Music",
+     "comment":"Using D3.js to show world trends of Music by gathering information from spotify API for data related to countries and converting everything into a dynamic map.",
+     "keywords":"---",
+     "image": "img/large/10.png",
+     "url":"http://gbayomi.github.io/Spotify-Map/"
+    },
+
+    {"title":"G1mersao",
+     "date":"2013-2014",
+     "place":"Globo Hackathon - Big Brother House",
+     "thumbnail":"img/thumb/8.png",
+     "preview":"Globo Hackathon (3rd Place and Tech Journalism Prize)",
+     "comment":"We built a data-driven immersion App with Google Cardboard and news clustering to provide a historical immersion experience with a vivid storyline to users. Users could decide a location on a map and we would gather the most relevant news in a historical storyline. Globo is the biggest Brazilian media conglomerate and selected 50 participants to a live-streamed hackathon event, using the 'Big Brother Show' infrastructure.",
+     "keywords":"---",
+     "image": "img/large/8.png",
+     "url":"http://www.techtudo.com.br/noticias/noticia/2016/04/conheca-dez-projetos-do-hackathon-globo-2016-de-gifs-teleoperacao.html"
+    },
+
+    {"title":"URL Checker",
+     "date":"Spring 2016",
+     "place":"University of Brasilia",
+     "thumbnail":"img/thumb/9.png",
+     "preview":"A Python (Flask) URL checker using Support Vector Machines to check if a link is malicious or not (without third parties)",
+     "comment":"Most URL checkers trust in third parties websites as part of the algorithm to check if the website is malicious. The intention here is to use less data (only url details and whois information) and still guarantee that the prediction accuracy would be high enough.",
+     "keywords":"---",
+     "image": "img/large/9.png",
+     "url":"https://gbayomi.github.io/url_checker/"
+    },
+
+    {"title":"Kohonen Map - MNIST",
+     "date":"Spring 2016",
+     "place":"University of Brasilia",
+     "thumbnail":"img/thumb/11.png",
+     "preview":"Konohen Map and FFNN for MNIST problem",
+     "comment":"Combination of Kohonen Map and Feed Forward Neural Network (own implementation of both algorithms) to predict the classic MNIST numerical problem.",
+     "keywords":"---",
+     "image": "img/large/11.png",
+     "url":"https://gbayomi.github.io/kohonen/"
+    },
+
+    {"title":"Nine Yards Inventory",
+     "date":"Spring 2015",
+     "place":"Cornell Univeristy",
+     "thumbnail":"img/thumb/12.png",
+     "preview":"Nine Yards Web Inventory Infrastructure",
+     "comment":"Nine Yards was a social enterprise developed by Roshni Mehta that employs female acid attack survivors. I developed the shopping inventory cart infrastructure as a social-academic project, using PHP/SQL. The website created by our team is currently offline.",
+     "keywords":"---",
+     "image": "img/large/12.png",
+     "url":"https://gbayomi.github.io/nine_yards/"
+    },
+
+    {"title":"Smart Jack",
+     "date":"2013-2014",
+     "place":"UFRN - TEAM Lab",
+     "thumbnail":"img/thumb/13.png",
+     "preview":"BlackJack Game implementation",
+     "comment":"Black Jack game online or single-player, using sockets, queues and json manipulation libraries for Java.",
+     "keywords":"---",
+     "image": "img/large/13.png",
+     "url":"https://gbayomi.github.io/SmartJack/"
+    }
+]}

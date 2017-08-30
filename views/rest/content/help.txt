@@ -1,0 +1,173 @@
+*****1*****
+Maniac Challenge App
+2013-2014
+Maniac Challenge - Berlin
+1.png
+Mobile Offloading in Wireless Ad-Hoc Networks
+-
+This paper describes the development of a human computer interface focused in detect hand movements and gestures and apply this data into a 3D environment, all this running based on an Android mobile device.
+-
+1.png
+http://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000006.pdf
+
+
+*****2*****
+Stanford Crowd
+2016
+Remote Research
+2.png
+Guilds Paper - CSCW 2017
+-
+The SCRC is a first of its kind research-at-scale initiative by professor and students at Stanford to explore the possibility of massive research collaboration. Over 500 students and professionals are able to contribute to Daemo, an ever-developing self-governed crowdsourcing marketplace. I was named one of the top 15 contributors and was also co-authored the Crowd Guilds paper, under orientation of Stanford faculty, which was accepted for the 2017 CSCW. The main goal was to design, implement and improve a crowdsourcing platform that empower employment relationship and provides a higher quality standard.
+-
+2.png
+http://hci.stanford.edu/publications/2017/crowdguilds/guilds.pdf
+
+*****3*****
+Omnibus
+2016
+University of Brasilia
+3.png
+Crowdsourcing the prediction of bus travel times for developing areas
+-
+I’m working on a social research project for the prediction of bus travel times for developing areas (non-GPS) via periodic crowdsourcing data. The lack of information of Google Transit Live and the highly confusing schedules are definitely a problem for most cities and my goal is to provide a low-internet-usage solution using crowd-sourced data from passengers.
+.
+-
+3.png
+https://github.com/horefice/omnisim/
+
+*****4*****
+Pump it Up: Data Mining the Water Table
+2016
+Maniac Challenge - Berlin
+4.png
+Prediction of possible faults in Tanzania water pumps
+-
+A competition, under the supervision of one my advisers, which targets the prediction of possible faults in Tanzania water pumps. We’ve been using this specific goal to study the diverse pre-processing techniques for missing and unreliable data and the combinations of different models to rise our final accuracy. We used different techniques (logistic regression, random forests, feed forward neural nets) and frameworks (sklearn, TensorFlow). The final results will be available after January.
+-
+4.png
+
+
+*****5*****
+Windy Gridworld
+Spring 2015
+Maniac Challenge - Berlin
+5.png
+Reinforcement Learning Visualization
+-
+A visualization of SARSA and Q-Learning algorithms, solving the Windy Grid World for variable inputs.
+
+-
+5.png
+UPDATE GREEN CELL
+
+*****6*****
+Universities Data Rankings
+Spring 2015
+Maniac Challenge - Berlin
+6.png
+Data Clustering and Visualization for QS Rankings
+-
+Dynamic data visualization for the QS Ranking topics of evaluation, using D3.js and k-means clustering. The goal was to show that some universities are very close in some criterias, although very distant in rankings. The QS dataset for the top 200 universities was used.
+-
+6.png
+PUT ONLINE
+
+*****7*****
+VRML viewer
+2013-2014
+Maniac Challenge - Berlin
+7.png
+VRML real-time viewer, using X3D Web library
+-
+Prof. Pratini from the Civil Engineering departments holds a lecture of Virtual and Augmented Reality. He used an old application that could read .vrml files. The application is not supported anymore. Then, I worked with a colleague to implement a real-time web version of a vrml viewer, transforming .vrml into X3D and showing an instantaneous 3D model of the code.
+-
+7.png
+UPDATE GITHUB
+
+*****8*****
+G1mersao
+2013-2014
+Maniac Challenge - Berlin
+8.png
+Globo Hackathon (3rd Place and Tech Journalism Prize)
+-
+We built a data-driven immersion App with Google Cardboard and news clustering to provide a historical immersion experience with a vivid storyline to users. Users could decide a location on a map and we would gather the most relevant news in a historical storyline. Globo is the biggest Brazilian media conglomerate and selected 50 participants to a live-streamed hackathon event, using the "Big Brother Show" infrastructure.
+-
+8.png
+GET competition link
+
+*****9*****
+URL Checker
+2013-2014
+Maniac Challenge - Berlin
+9.png
+A Python (Flask) URL checker using Support Vector Machines to check if a link is malicious or not (without third parties)
+-
+Most URL checkers trust in third parties websites as part of the algorithm to check if the website is malicious. The intention here is to use less data (only url details and whois information) and still guarantee that the prediction accuracy would be high enough.
+-
+9.png
+UPDATE GITHUB
+
+*****10*****
+Spotify World Map
+Kohonen Map - MNIST
+2013-2014
+Maniac Challenge - Berlin
+10.png
+Mobile Offloading in Wireless Ad-Hoc Networks
+-
+Using D3.js to show world trends of Music by gathering information from spotify API for data related to countries and converting everything into a dynamic map.
+-
+10.png
+http://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000006.pdf
+
+*****11*****
+Kohonen Map - MNIST
+2013-2014
+Maniac Challenge - Berlin
+11.png
+Konohen Map and FFNN for MNIST problem
+-
+Combination of Kohonen Map and Feed Forward Neural Network (own implementation of both algorithms) to predict the classic MNIST numerical problem.
+-
+11.png
+
+
+*****12*****
+Nine Yards
+2013-2014
+Nine Yards Inventory 
+12.png
+-
+Nine Yards Web Inventory Infrastructure
+-
+Nine Yards was a social enterprise that employs female acid attack survivors. I developed the shopping cart infrastructure, using PHP/SQL.
+-
+12.png
+http://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000006.pdf
+
+*****13*****
+Senior thesis (under development)
+2013-2014
+Maniac Challenge - Berlin
+13.png
+Recurrent Neural Networks for Social Networks Analysis
+-
+I’m working with Recurrent Neural Networks (LSTM) for the sentiment analysis of social networks as my undergraduate thesis. It’s also been interesting to test the different methods like Random Forests and Kohonen self-organizing maps to understand how the features of the data can be modeled in different ways.
+-
+13.png
+http://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000006.pdf
+
+
+*****14*****
+Smart Jack (game)
+2013-2014
+Maniac Challenge - Berlin
+14.png
+BlackJack implementation
+-
+Black Jack game online or single-player, using sockets, queues and json manipulation libraries for Java.
+-
+14.png
+http://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000006.pdf

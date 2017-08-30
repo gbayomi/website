@@ -1,0 +1,78 @@
+{"projects":[
+
+    {"title":"PHYS.io",
+     "date":"June, 2016",
+     "place":"UFRN - TEAM Lab",
+     "thumbnail":"img/thumb/phys_io.png",
+     "preview":"Wearable Hand Tracking Device",
+     "comment":"This paper describes the development of a human computer interface focused in detect hand movements and gestures and apply this data into a 3D environment, all this running based on an Android mobile device.",
+     "keywords":"Wearable, Sensing",
+     "image": "img/large/phys_io.png",
+     "url":"http://ieeexplore.ieee.org/document/7524320"
+   },
+     {"title":"Processing To Unity",
+      "date":"October 7, 2016",
+      "place":"MIT - Media Lab",
+      "thumbnail":"img/thumb/processing_to_unity.png",
+      "preview":"Send Processing Screen Image to Unity",
+      "comment":"Render Processing Screens as an Unity Texture2D (compatible with Windows, OSX and Linux)",
+      "keywords":"Processing, Unity",
+      "image": "img/large/processing_to_unity.png",
+      "url":"https://github.com/lucascassiano/Processing-to-Unity"
+    },
+
+    {"title":"Cards - UI Kit for Processing",
+      "date":"July 5, 2016",
+      "place":"MIT - Media Lab",
+      "thumbnail":"img/thumb/cards_ui.png",
+      "preview":"UI Kit for Processing (Java)",
+      "comment":"Cards_UI Is a Graphical User Interface kit for Processing. This UI was designed based on the old Unity (v3.5) GUI library dynamic model.",
+      "keywords":"User Interfaces, Processing, Design, Java",
+      "image": "img/large/cards_ui.png",
+      "url":"projects/cards_ui/index.html"
+    },
+
+    {"title":"Cubio",
+      "date":"Summer, 2015",
+      "place":"MIT - Media Lab - Changing Places",
+      "thumbnail":"img/thumb/cubio.png",
+      "preview":"A stackable Tangible Interface based on LEGO",
+      "comment":"Developed at MIT - Media Lab, under coordination of <a href='http://jamesira.com'>Ira Winder</a> from Changing Places and also developed by <a href='http://marcteyssier.com'>Marc Teyssier</a>, Cubio is a tangible interfaced, initially designed to work as a tool for CityScope, where the user could create Buildings using legos and apply this design at the larger CityScope Table developed by Ira Winder.",
+      "keywords":"Tangible Interfaces, Hardware",
+      "image": "img/large/cubio.png",
+      "url":"http://marcteyssier.com/project/cubio/"
+    },
+
+    {"title":"FlexDGlove",
+      "date":"2012-2013",
+      "place":"UFRN NatalNet",
+      "thumbnail":"img/thumb/flexdglove.png",
+      "preview":"Low cost Dataglove for Virtual Applications",
+      "comment":"Started in 2013 by Dr. Rafael Aroca (rafaelaroca@ieee.org) and Dr. Rummenigged Dantas(rudsondant@gmail.com), professors at Universidade Federal do Rio Grande do Norte, FlexDGlove is a low cost dataglove designed to interact with simple virtual reality applications. The hardware was based on Arduino and flex sensors, while the software was totally based on Unity 3D. ",
+      "keywords":"Wearable Interface, Data Glove, Arduino",
+      "image": "img/large/flexdglove.png",
+      "url":"#"
+    },
+
+    {"title":"Kayak Supremo",
+      "date":"2014",
+      "place":"MIT - Media Lab - Changing Places",
+      "thumbnail":"img/thumb/kayaksupremo.png",
+      "preview":"This game aims in make the player open and close his/her hand in order to control the avatar (a kayak).",
+      "comment":"The map is a river with several obstacles where the boad speed is increased during game play, so the user needs to interact using the glove in order to avoid the obstacles, if a obstacle is collided, the glove vibers, giving a feedback to player. ",
+      "keywords":"Unity, Seriour Games, Software, C#",
+      "image": "img/large/kayaksupremo.png",
+      "url":"projects/kayaksupremo/index.html"
+    },
+
+    {"title":"Sketch3D",
+      "date":"Summer, 2015",
+      "place":"MSOE - Milwaukee - Winsconsin",
+      "thumbnail":"img/thumb/sketch3d.png",
+      "preview":"Some Ideas just need a new perspective",
+      "comment":"Sketch 3D is a native Android App developed entirely by me, in 2014, as a study project. The app was made using Java, all based in Open GL ES 2.0, using Android Studio as IDE. ",
+      "keywords":"Android, Java, OpenGL, OpenGL ES, Mobile, Drawing, App, Software",
+      "image": "img/large/sketch3d.png",
+      "url":"https://play.google.com/store/apps/details?id=com.cassiano.sketch3d"
+    }
+]}

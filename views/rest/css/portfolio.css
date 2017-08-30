@@ -1,0 +1,142 @@
+.profile-picture {
+    border: white 1px;
+    border-radius: 1%;
+}
+
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+.project-card {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-width: 1px;
+    box-shadow: 10px 10px 5px grey;
+    font-family: 'Raleway', sans-serif;
+}
+
+.top-menu {
+    display: inline-block;
+    float: left;
+    margin-top: 0px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+
+.top-menu-button {
+    color: #212121;
+    text-decoration: none;
+    background-color: transparent;
+    border-radius: 50%;
+    padding: 15px;
+}
+
+.top-menu-button:hover {
+    color: #FFF;
+    background: linear-gradient(to bottom, #474747 0%, #212121 100%);
+}
+
+.title {
+    font-family: 'Raleway', sans-serif;
+}
+
+.top-menu>div {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+/*Grid Style*/
+
+.grid {}
+
+.grid-item {
+    margin-right: 10px;
+    maring-left: 10px;
+}
+
+.project-comment {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.project-button {
+    float: right;
+    border-radius: 2px;
+    font-family: calibri;
+}
+
+.project-date {
+    color: #bdc3c7;
+    font-size: 10pt;
+    float: left;
+    margin-right: 12px;
+}
+
+.top-menu-project {
+    position: absolute;
+    top: 20px;
+    margin: auto;
+    width: 100%;
+}
+
+.top-menu-project>div {
+    position: relative;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    -webkit-box-shadow: 0px 5px 31px -6px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 5px 31px -6px rgba(0, 0, 0, 1);
+    box-shadow: 0px 5px 31px -6px rgba(0, 0, 0, 1);
+}
+
+.btn-primary{
+background: linear-gradient(to bottom, #333333 0%, #212121 100%);
+border-radius: 4px;
+right:0px;
+}
+
+.btn-primary:hover {
+background: #333333;
+}
+
+@media screen and (min-width: 991px) {
+    .top-menu {
+        display: inline-block;
+        float: center, bottom;
+        margin-top: 100px;
+    }
+}
+
+.top_desc {
+    margin-left: 24%;
+}
+
+.top_img {
+    float: left;
+    margin-right: 5%;
+}
+
+.top_title {
+    margin-left: 15%;
+    padding-left: 75px;
+}
+
+.top_links {
+    margin-left: 39.5%;
+    margin-top: -13%;
+}
+
+.linkToHome {
+    color: #1e90ff;
+}
+
+.homeText {
+    font-size: 24px;
+}
+
+.homeText a {
+    color: #1e90ff;
+}
