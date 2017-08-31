@@ -3,7 +3,7 @@
      "date":"Spring 2017",
      "place":"University of Brasilia",
      "thumbnail":"img/thumb/kbot.png",
-     "preview":"AI-based bot, using Kardashian family bot",
+     "preview":"AI-based Python bot, using Kardashian family tweets, Tensorflow and Flask",
      "comment":"This was my undergraduate final project. I collected thousands of Kardashian’s tweets and used a Seq2Seq wrapper to build an online Python chatbot with Tensorflow and Flask.",
      "keywords":"---",
      "image": "img/large/kbot.png",
