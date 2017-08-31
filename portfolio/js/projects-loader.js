@@ -1,6 +1,6 @@
 
 
-var jsonFile = "https://cdn.rawgit.com/gbayomi/website/52cad933/portfolio/content/projects.json";
+var jsonFile = "https://cdn.rawgit.com/gbayomi/website/b5b168c2/portfolio/content/projects2.json";
 //var jsonFile = "/portfolio/content/projects.json";
 //For debbuging
 //jsonFile = "projects.json";
